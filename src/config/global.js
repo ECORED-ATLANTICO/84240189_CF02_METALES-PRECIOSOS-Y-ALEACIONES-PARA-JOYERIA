@@ -1,7 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Las aleaciones y análisis en los metales preciosos',
-    descripcionCurso:
+    Name: 'Las aleaciones y análisis en los metales preciosos',
+    Description:
       'Las aleaciones de metales preciosos, como oro y plata, son combinaciones que mejoran sus propiedades físicas y químicas. El análisis de estas aleaciones permite determinar su pureza y composición, lo que es fundamental en la joyería y la industria. Estos procesos garantizan calidad y autenticidad, además de influir en el valor del material, asegurando la confianza en el mercado.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
