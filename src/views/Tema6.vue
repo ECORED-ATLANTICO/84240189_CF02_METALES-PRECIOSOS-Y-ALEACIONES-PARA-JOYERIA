@@ -56,7 +56,7 @@
             | Utilizar los elementos de protección personal adecuados al tipo de producto a manipular.
           li.mb-0.d-flex 
             i.lista-ul__vineta
-            | Generar procedimientos de trabajo (manipulación, almacenamiento, desechos, 15 etc.). 
+            | Generar procedimientos de trabajo (manipulación, almacenamiento, desechos, etc.). 
     
     .bg_img_3
       .row.mb-5
@@ -67,7 +67,7 @@
                 img(src="@/assets/template/fri.svg", alt="alt")
             .col.p-0
               h4 Riesgo de quemaduras
-          p El contacto con utensilios o superficies calientes, como los hornos, o la proyección de líquidos a temperaturas elevadas pueden ser causas de quemaduras. Con el fin de prevenir estos riesgos, use los elementos de protección personal y siga los procedimientos de trabajo que la empresa ha establecido. 
+          p El contacto con utensilios o superficies calientes, como los hornos, o la proyección de líquidos a temperaturas elevadas, pueden ser causas de quemaduras. Con el fin de prevenir estos riesgos, use los elementos de protección personal y siga los procedimientos de trabajo que la empresa ha establecido. 
         .col-xl-3.align-content-center
           ul.lista-ul--color
             li.mb-0.d-flex 

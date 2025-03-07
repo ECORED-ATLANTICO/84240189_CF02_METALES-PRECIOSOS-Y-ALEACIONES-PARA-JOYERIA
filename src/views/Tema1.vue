@@ -169,7 +169,7 @@
         .col-lg-8.mb-4.mb-md-0
           p La alpaca plateada o sin platear ha sido muy utilizada en la fabricación de cuberterías y vajillas tratando de sustituir la plata.
           p Siempre que tengamos que utilizar algún tipo de alpaca, si podemos elegir, debemos utilizar la alpaca laminada. Por regla general, los metales laminados siempre suelen ofrecer mayores garantías en su composición que los que solamente han sido fundidos. 
-          p La alpaca es conocida por diferentes nombres comerciales tales como: plata nueva, plata alemana, níquel silver, argentan, etc.      
+          p La alpaca es conocida por diferentes nombres comerciales tales como: plata nueva, plata alemana, níquel <em>silver</em>, argentan, etc.      
         .col-md-6.col-lg-4
           figure
             img(src="@/assets/curso/temas/tema1/12.png", alt="alt")
@@ -205,7 +205,7 @@
         .col.p-0
           h4 Peltre
       
-      p En principio el peltre era una aleación que contenía estaño y plomo en proporción de cuatro a seis veces de estaño por una de plomo. Actualmente se ha eliminado el plomo, mayormente porque daba un color oscuro a la aleación. Sustituyéndolo por cobre, antimonio o zinc. 
+      p En principio, el peltre era una aleación que contenía estaño y plomo en proporción de cuatro a seis veces de estaño por una de plomo. Actualmente se ha eliminado el plomo, mayormente porque daba un color oscuro a la aleación. Sustituyéndolo por cobre, antimonio o zinc. 
       p Aprovechando su bajo punto de fusión, suele utilizarse en bisutería para piezas de fundición centrifugada en moldes de caucho o de siliconas. 
 
       .row.mb-5.justify-content-center
@@ -328,7 +328,7 @@
       .col.p-0
         h4 Aleaciones con metales preciosos 
     
-    p Como hemos venido hablando los metales preciosos más trabajados en la joyería son el oro seguido de la plata y el platino. Durante mucho tiempo el oro fue el único metal disponible cuyo brillo permanecía inalterable a través del tiempo. 
+    p Como hemos venido hablando, los metales preciosos más trabajados en la joyería son el oro, seguido de la plata y el platino. Durante mucho tiempo, el oro fue el único metal disponible cuyo brillo permanecía inalterable a través del tiempo. 
     
     .cajon.color-acento-botones.p-4.mb-4
       p.mb-0 Al principio interesaba más el aspecto del oro que sus verdaderas propiedades mecánico, se hicieron experimentos para obtener oro de diferentes colores y, efectivamente, se consiguieron tonalidades exóticas que nunca se han podido trabajar por no reunir un mínimo de propiedades mecánicas indispensables. 
@@ -347,15 +347,15 @@
           li.d-flex
             .lista-ol--cuadro__vineta.bgr_6.d-
               span 3
-            | El oro y la plata dan tonos de color verdosos, también se obtienen colores verdosos con aleaciones oro / plata / cadmio y oro / plata / cobre e incluso con oro / cobre / plata /cadmio. 
+            | El oro y la plata dan tonos de color verdosos, también se obtienen colores verdosos con aleaciones oro / plata / cadmio y oro / plata / cobre e incluso con oro / cobre / plata / cadmio. 
           li.d-flex
             .lista-ol--cuadro__vineta.bgr_6.d-
               span 4
-            | Con aleaciones oro / plata / cobre se consiguen colores amarillos fuertes.
+            | Con aleaciones de oro / plata / cobre se consiguen colores amarillos fuertes.
           li.d-flex
             .lista-ol--cuadro__vineta.bgr_6.d-
               span 5
-            | Oro / plata / cobre da el color “rosé”.
+            p.mb-0 Oro / plata / cobre da el color <em>rosé</em>.
           li.d-flex
             .lista-ol--cuadro__vineta.bgr_6.d-
               span 6
@@ -373,16 +373,16 @@
           img(src="@/assets/curso/temas/tema1/18.png", alt="alt")
     
     div(data-aos="fade-right")
-      h3.bgr_1 Oro de Color 750 milésimas (18 kilates) 
+      h3.bgr_1 Oro de color 750 milésimas (18 quilates) 
 
-    p.mb-5.mt-5 Gracias a las propiedades del cobre y de la plata, estas aleaciones de 750 milésimas o 18 kilates, pueden tener desde un color verde hasta un rosa pasando por el amarillo. Si las 250 milésimas de aleación con todas de plata, el color será verde. 
+    p.mb-5.mt-5 Gracias a las propiedades del cobre y de la plata, estas aleaciones de 750 milésimas o 18 quilates, pueden tener desde un color verde hasta un rosa pasando por el amarillo. Si las 250 milésimas de aleación son todas de plata, el color será verde. 
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/19.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Si las 250 milésimas de aleación son todas en cobre, el color será rosa, rojo o rosé, ya que se emplean las tres denominaciones. Entre estos dos extremos, existe una amplia gama de tonalidades que, según la moda, en determinado momento se emplean más unas que otras. La gama de colores, comercialmente, suele ser la siguiente: oro rojo, oro rosa, oro inglés, oro amarillo y oro verde. Aunque las aleaciones 750 milésimas suelen ser ternarias oro/plata/cobre, algunas veces se modifican sus propiedades por medio de adiciones de níquel o de zinc. 
+        p.mb-0 Si las 250 milésimas de aleación son todas en cobre, el color será rosa, rojo o <em>rosé</em>, ya que se emplean las tres denominaciones. Entre estos dos extremos, existe una amplia gama de tonalidades que, según la moda, en determinado momento se emplean más unas que otras. La gama de colores, comercialmente, suele ser la siguiente: oro rojo, oro rosa, oro inglés, oro amarillo y oro verde. Aunque las aleaciones 750 milésimas suelen ser ternarias oro/plata/cobre, algunas veces se modifican sus propiedades por medio de adiciones de níquel o de zinc. 
     
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1
@@ -513,7 +513,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 4
-          span <em>Oro rosé</em>
+          span Oro <em>rosé</em>
     
         .tabla-a.color-acento-botones.bgr_6.mb-3.text-center
           table
@@ -567,7 +567,7 @@
                 td 187
                 td 15,19
                 td 
-        p Estas aleaciones son ligeramente más duras que las de oro amarillo. Son de uso general en joyería y se trabajan bien en frio.
+        p Estas aleaciones son ligeramente más duras que las de oro amarillo. Son de uso general en joyería y se trabajan bien en frío.
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 5
@@ -644,7 +644,7 @@
         figure
           img(src="@/assets/curso/temas/tema1/20.png", alt="alt")
       .col-lg-9.align-content-centerdiv(data-aos="fade-left")
-        p A consecuencia de la subida de los costos y, porque no decirlo, a la difícil tecnología del platino, cada vez ha ido tomando un mayor incremento las aleaciones de oro blanco. 
+        p A consecuencia de la subida de los costos y, porque no decirlo, a la difícil tecnología del platino, cada vez han ido tomando un mayor incremento las aleaciones de oro blanco. 
         p Cuando se hace referencia a la difícil tecnología del platino, se habla mayormente a su elevado punto de fusión, a su aleación prácticamente única, ya que se trabaja solo a 950 milésimas, y a la facilidad con que se vuelve frágil.  El oro blanco no ha sido la solución a los problemas, pero por lo menos permite elegir entre un cierto número de posibilidades.
         p.mb-0 Para el oro blanco existen tantas leyes como para el oro de color. Las aleaciones más utilizadas son las de 750 y 585 milésimas. 
     
@@ -661,7 +661,7 @@
             p.text-white.mb-0 Las que contienen paladio y no contienen níquel.
           li.d-flex 
             i.fas.fa-check-circle.bgr
-            p.text-white.mb-0 Las que son una mezcla de las dos anteriores Las aleaciones que contienen níquel son relativamente duras y presentan un color poco atractivo lo que hace poco menos que imprescindible un acabado con baño de Rodio (Rh). Y tienen una tendencia a romperse. Las aleaciones de oro blanco al paladio son más caras que las anteriores, pero si en realidad estamos tratando de sustituir el platino esta diferencia de precio no es tan importante, ya que tienen un buen color, similar al del platino, y son blandas y fáciles de trabajar.
+            p.text-white.mb-0 Las que son una mezcla de las dos anteriores. Las aleaciones que contienen níquel son relativamente duras y presentan un color poco atractivo, lo que hace poco menos que imprescindible un acabado con baño de Rodio (Rh). Y tienen una tendencia a romperse. Las aleaciones de oro blanco al paladio son más caras que las anteriores, pero si en realidad estamos tratando de sustituir el platino, esta diferencia de precio no es tan importante, ya que tienen un buen color, similar al del platino, y son blandas y fáciles de trabajar.
       .col-md-8.col-lg-3.align-content-centerdiv(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/tema1/21.png", alt="alt")
@@ -670,7 +670,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6
-          span <em>Aleaciones de oro blanco de 750 milésimas (18 kilates) SIN NIQUEL  	</em>
+          span <em>Aleaciones de oro blanco de 750 milésimas (18 quilates) SIN NIQUEL  	</em>
     
         .tabla-a.color-acento-botones.bgr_6.mb-3.text-center
           table
@@ -762,14 +762,14 @@
           .col-xl-6.mb-4.mb-md-0.text-white.align-content-center
             h3 Aleaciones de platino 
             p La ley del platino para joyería es de 950 milésimas y naturalmente con solo 50 milésimas de aleación son pocas las cosas que se pueden hacer. En la práctica, el platino para joyería se alea solo con cobre y, en algunos casos en los que se requiere una mayor dureza, se alea con iridio o con rutenio.
-            p La primera aleación es prácticamente la única que se trabaja en Joyería, la segunda aleación es semidura, y la siguientes son aleaciones duras.
+            p La primera aleación es prácticamente la única que se trabaja en joyería, la segunda aleación es semidura, y las siguientes son aleaciones duras.
         .row(titulo="").justify-content-center
           .col-md-6.col-xl-4.mb-3
             figure
               img(src='@/assets/curso/temas/tema1/23.png', alt='Imagen de apoyo')
           .col-xl-6.mb-4.mb-md-0.text-white.align-content-center
             h3 Aleaciones de plata  
-            p La platería utiliza aleaciones de 925 y 800 milésimas, siendo la de 925 milésimas, conocida como "Sterling Silver", la más común para exportación. La plata se alea con metales de bajo punto de fusión, como estaño, plomo, indio y zinc, pero el cobre es el más adecuado para mejorar sus propiedades. A menudo, se añaden níquel y zinc para aumentar la dureza. Las aleaciones de plata tienden a absorber oxígeno, lo que dificulta la formación de aleaciones compactas. Para reducir el oxígeno antes de vaciar las aleaciones, se puede bajar la temperatura o usar aditivos reductores, como cobre fosforoso en una proporción de 0.5 g por kilo de plata. Este aditivo no es recomendable para aleaciones con níquel. Además, para evitar porosidades, es mejor vaciar las aleaciones de plata utilizando una llama reductora.
+            p La platería utiliza aleaciones de 925 y 800 milésimas, siendo la de 925 milésimas, conocida como <em>Sterling Silver</em>, la más común para exportación. La plata se alea con metales de bajo punto de fusión, como estaño, plomo, indio y zinc, pero el cobre es el más adecuado para mejorar sus propiedades. A menudo, se añaden níquel y zinc para aumentar la dureza. Las aleaciones de plata tienden a absorber oxígeno, lo que dificulta la formación de aleaciones compactas. Para reducir el oxígeno antes de vaciar las aleaciones, se puede bajar la temperatura o usar aditivos reductores, como cobre fosforoso, en una proporción de 0.5 g por kilo de plata. Este aditivo no es recomendable para aleaciones con níquel. Además, para evitar porosidades, es mejor vaciar las aleaciones de plata utilizando una llama reductora.
         .row(titulo="").justify-content-center
           .col-md-6.col-xl-4.mb-3
             figure

@@ -125,9 +125,9 @@ export default {
   },
   complementario: [
     {
-      tema: 'El riesgo higiénico en la joyería.',
+      tema: '6. El riesgo higiénico en la joyería.',
       referencia:
-        'Simó, R. M. (2001). Riesgos Higiénicos en el sector de la Joyería. Prevención, trabajo y salud: Revista del Instituto Nacional de Seguridad e Higiene en el Trabajo, (12), 18-24.',
+        'Montero Simó, R. (2001). Riesgos higiénicos en el sector de la joyería. Sección Técnica, (12), 18-39. ',
       tipo: 'PDF',
       descarga: '/downloads/504261.pdf',
     },
@@ -146,12 +146,12 @@ export default {
     {
       termino: 'Copela',
       significado:
-        'son fabricadas de cemento y cenizas de hueso o magnesita, se utilizan para separar el oro y la plata del plomo que ha actuado como colector y además de otras impurezas metálicas que generalmente acompañan al botón auro argentífero.',
+        'son fabricadas de cemento y cenizas de hueso o magnesita, se utilizan para separar el oro y la plata del plomo que ha actuado como colector y además de otras impurezas metálicas que generalmente acompañan al botón auroargentífero.',
     },
     {
       termino: 'Copelación',
       significado:
-        'la copelación es un proceso de oxidación a altas temperaturas por lo cual los metales nobles se separan de todas las impurezas o metales no nobles que pueden acompañarlos. Las impurezas (metales) se mezclan con el plomo sobre la copela y después de someterse a altas temperaturas y una atmosfera oxidante.',
+        'la copelación es un proceso de oxidación a altas temperaturas, por lo cual los metales nobles se separan de todas las impurezas o metales no nobles que pueden acompañarlos. Las impurezas (metales) se mezclan con el plomo sobre la copela y después de someterse a altas temperaturas y una atmósfera oxidante.',
     },
     {
       termino: 'Crisol de Arcilla',
@@ -159,12 +159,12 @@ export default {
     },
     {
       termino: 'Dore',
-      significado: 'botón auro argentífero, producto de la copelación.',
+      significado: 'botón auroargentífero, producto de la copelación.',
     },
     {
       termino: 'Encuartar',
       significado:
-        'es la adición de plata que se hace para que producto de la copelación se obtenga un dore que sea soluble, para esto es necesario que este en relación (1: 3 oro: plata respectivamente).',
+        'es la adición de plata que se hace para que producto de la copelación se obtenga un dore que sea soluble, para esto es necesario que esté en relación (1: 3 oro: plata respectivamente).',
     },
     {
       termino: 'Escoria',
@@ -174,17 +174,17 @@ export default {
     {
       termino: 'Fundente',
       significado:
-        'es una mezcla de sales que se usan durante la fundición, estas sales son Litargirio, bórax, Carbonato de sodio los cuales se mezclan en proporciones diferentes dependiendo de la naturaleza de las impurezas que se trata de eliminar en la escoria.',
+        'es una mezcla de sales que se usan durante la fundición. Estas sales son Litargirio, bórax, carbonato de sodio las cuales se mezclan en proporciones diferentes dependiendo de la naturaleza de las impurezas que se trata de eliminar en la escoria.',
     },
     {
       termino: 'Llama neutra',
       significado:
-        'Esta la obtenemos por medio de la mezcla de volúmenes iguales de oxígeno y acetileno se le conoce como destructora de óxidos metálicos, esta llama se utiliza para soldar aceros al carbono y cobre.',
+        'Esta la obtenemos por medio de la mezcla de volúmenes iguales de oxígeno y acetileno, se le conoce como destructora de óxidos metálicos, esta llama se utiliza para soldar aceros al carbono y cobre.',
     },
     {
       termino: 'Llama reductora',
       significado:
-        'Se genera cuando hay exceso de acetileno, partiendo de la llama de acetileno puro, al aumentarse el porcentaje de oxígeno se hace visible una zona brillante, dardo, seguido de un penacho de acetileno de color verde pálido, que desaparece al igualarse las proporciones. Esta se utiliza para soldar hierro fundido, aluminio, plomo y soldaduras de recubrimientos duros.',
+        'Se genera cuando hay exceso de acetileno, partiendo de la llama de acetileno puro. Al aumentarse el porcentaje de oxígeno, se hace visible una zona brillante, dardo, seguido de un penacho de acetileno de color verde pálido, que desaparece al igualarse las proporciones. Esta se utiliza para soldar hierro fundido, aluminio, plomo y soldaduras de recubrimientos duros.',
     },
     {
       termino: 'Llama oxidante',
@@ -230,8 +230,7 @@ export default {
     {
       referencia:
         'Montero Simó, Rosa. Riesgos higiénicos en el sector de la joyería. Centro de seguridad e higiene en el trabajo de Córdoba consejería de empleo y desarrollo tecnológico junta de Andalucía.',
-      link:
-        'http://www.insht.es/InshtWeb/Contenidos/Documentacion/TextosOnline/Rev_ INSHT/2001/12/seccionTecTextCompl2.pdf',
+      link: '',
     },
     {
       referencia:
@@ -258,7 +257,7 @@ export default {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de la línea de producción',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -305,7 +304,7 @@ export default {
           nombre: 'Fabian Cuartas Donado',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -316,19 +315,19 @@ export default {
           nombre: 'Hernando Junior Strusberg Perez',
           cargo: 'Diseñador <em>web</em>',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Carlos Andrés Díaz Pinto',
           cargo: 'Desarrollador <em>Fullstack</em>',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y Producción audiovisual',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -339,25 +338,25 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador de contenidos inclusivos y accesibles ',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles ',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Juan Carlos Cardona Acosta',
           cargo: 'Validador y vinculador de recursos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador y vinculador de recursos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },

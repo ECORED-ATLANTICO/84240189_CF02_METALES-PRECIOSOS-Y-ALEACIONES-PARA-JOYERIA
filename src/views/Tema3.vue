@@ -19,13 +19,13 @@
         figure
           img(src="@/assets/template/fri.svg", alt="alt")
       .col.p-0
-        h4 Atmosfera de Fundición  
+        h4 Atmosfera de fundición  
     
     .row.mb-5.justify-content-center
       .col-xl-8
-        p Durante el proceso de fundición es muy importante tener una atmosfera controlada en lo referido a la presencia de oxígeno en el ambiente. Esto se debe a varios problemas relacionados con el comportamiento del oxigeno y de los metales durante la fundición. 
+        p Durante el proceso de fundición es muy importante tener una atmósfera controlada en lo referido a la presencia de oxígeno en el ambiente. Esto se debe a varios problemas relacionados con el comportamiento del oxigeno y de los metales durante la fundición. 
 
-        p.bgr_8.p-4 Cuando un metal es sometido a altas temperaturas tiende a reaccionar con facilidad con el oxígeno formando óxidos metálicos inestables (en especial óxidos de cobre) los cuales pueden generar problemas de calidad, así mismo, la oxidación podría afectar a la ley de la aleación, esto se debe a que el oxígeno reaccionara selectivamente con los metales nobles y por tanto la proporción de metales nobles presentes en la aleación aumentara en relación a los metales que se oxidan, siendo esta situación desfavorable para el productor. Por otro lado, se debe tomar en consideración que cuando los metales se encuentran en estado líquido tienden a absorben gases en su interior, siendo el oxígeno el elemento que es absorbido en mayor proporción, (especial interés en el metal de plata que es el metal que más absorbe oxigeno).
+        p.bgr_8.p-4 Cuando un metal es sometido a altas temperaturas tiende a reaccionar con facilidad con el oxígeno formando óxidos metálicos inestables (en especial óxidos de cobre) los cuales pueden generar problemas de calidad, así mismo, la oxidación podría afectar a la ley de la aleación, esto se debe a que el oxígeno reaccionara selectivamente con los metales nobles y por tanto la proporción de metales nobles presentes en la aleación aumentara con relación a los metales que se oxidan, siendo esta situación desfavorable para el productor. Por otro lado, se debe tomar en consideración que cuando los metales se encuentran en estado líquido tienden a absorber gases en su interior, siendo el oxígeno el elemento que es absorbido en mayor proporción, (especial interés en el metal de plata que es el metal que más absorbe oxígeno).
       .col-md-8.col-xl-4(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/tema3/2.png", alt="alt")
@@ -80,7 +80,7 @@
         figure
           img(src="@/assets/template/fri.svg", alt="alt")
       .col.p-0
-        h4 Soplete de Fundición  
+        h4 Soplete de fundición  
     
     .row.mb-5.justify-content-center
       .col-xl-8.order-2.order-xl-1
@@ -100,16 +100,16 @@
       .col-lg-8
         LineaTiempoD.color-primario.mb-5
           div(numero="1" titulo="Gas natural")
-            p Está compuesto mayormente por metano y etano, este gas es combustible barato, limpio y adecuado para la gran mayoría de aplicaciones en joyería. Si bien su capacidad calorífica es inferior a la del hidrogeno, su ventaja radica en su disponibilidad y que su abastecimiento por tuberías elimina muchos problemas de manipulación. 
+            p Está compuesto mayormente por metano y etano, este gas es combustible barato, limpio y adecuado para la gran mayoría de aplicaciones en joyería. Si bien su capacidad calorífica es inferior a la del hidrógeno, su ventaja radica en su disponibilidad y que su abastecimiento por tuberías elimina muchos problemas de manipulación. 
           div(numero="2" titulo="GLP o gas licuado de petróleo")
             p Es una mezcla de propano y butano que, dependiendo del país o de diferentes plantas, puede tener una composición variada, sin embargo, el propano constituye la mayor parte de la mezcla. Al igual que el gas natural es un combustible limpio, sin embargo, resulta más caro y difícil de manipular, considerando que solo está disponible en cilindros o garrafas.  
           div(numero="3" titulo="Acetileno")
-            p Que, si bien pueden generar llamas con temperaturas muy elevadas, es considerado como el combustible menos limpio puesto que su combustión genera muchos subproductos de carbón que pueden afectar negativamente en especial a las aleaciones de oro y platino.
+            p Que, si bien pueden generar llamas con temperaturas muy elevadas, es considerado como el combustible menos limpio, puesto que su combustión genera muchos subproductos de carbón que pueden afectar negativamente, en especial a las aleaciones de oro y platino.
 
     div(data-aos="fade-right")
       h3.bgr_1 Capacidad 
 
-    p.mt-5 La cantidad de metal que se puede fundir a través de un soplete es limitada, a manera de referencia se puede decir que lo sopletes de fundición que alcanzan las temperaturas más elevadas pueden fundir alrededor de 250 grs de plata 925 en un ciclo de fundición, desde luego esto depende de muchos factores: tipo de soplete, tipo de combustible, forma de alimentación del oxígeno, tamaños del crisol, temperaturas de fusión de los metales componentes de la aleación, etc. 
+    p.mt-5 La cantidad de metal que se puede fundir a través de un soplete es limitada, a manera de referencia se puede decir que los sopletes de fundición que alcanzan las temperaturas más elevadas pueden fundir alrededor de 250 g de plata 925 en un ciclo de fundición, desde luego esto depende de muchos factores: tipo de soplete, tipo de combustible, forma de alimentación del oxígeno, tamaños del crisol, temperaturas de fusión de los metales componentes de la aleación, etc. 
     
     SlyderA(tipo="b").bgr_3.mb-5
       .row.justify-content-center
@@ -128,7 +128,7 @@
             img(src='@/assets/curso/temas/tema3/12.png', alt='Imagen de apoyo')
       .row.justify-content-center
         .col-lg-7.mb-4.mb-md-0.align-content-center.text-white
-          h3 Soplete de fundición gas/oxigeno
+          h3 Soplete de fundición gas/oxígeno
           p Un soplete de fundición de oxígeno utiliza oxígeno y combustible, como acetileno, para generar temperaturas extremas que permiten la fusión de metales. Este tipo de soplete proporciona una llama muy caliente y controlable, ideal para trabajos de precisión en joyería y metalurgia. Su capacidad para fundir metales de alta densidad lo convierte en una herramienta esencial en talleres especializados.
         .col-md-8.col-lg-3.align-content-center
           figure

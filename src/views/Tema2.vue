@@ -27,7 +27,7 @@
             | Soldaduras dulces o punto de fusión bajo. 
           li.d-flex 
             i.fas.fa-check-circle.bgr
-            | Soldadura duras o punto de fusión alto Al preparar una soldadura, sin tener en cuenta si se trata de un tipo o de otro, es indispensable.
+            | Soldaduras duras o punto de fusión alto. Al preparar una soldadura, sin tener en cuenta si se trata de un tipo o de otro, es indispensable.
           li.d-flex 
             i.fas.fa-check-circle.bgr
             | Que la mezcla de la aleación sea completamente homogénea. 
@@ -39,7 +39,7 @@
       .row.justify-content-center
         .col-lg-7.mb-4.mb-md-0.align-content-center.text-white
           h3 Soldaduras dulces o de bajo punto de fusión. 
-          p En lo que refiere joyería, estas soldaduras solo deben utilizarse cuando no queda otra alternativa. La mayoría de ellas contienen plomo y estaño, que pueden contaminar los metales a soldar, sobre todo el plomo al que podemos considerar el peor enemigo de los metales preciosos. 
+          p En lo que refiere a la joyería, estas soldaduras solo deben utilizarse cuando no queda otra alternativa. La mayoría de ellas contienen plomo y estaño, que pueden contaminar los metales a soldar, sobre todo el plomo, al que podemos considerar el peor enemigo de los metales preciosos. 
         .col-md-8.col-lg-3.align-content-center
           figure
             img(src='@/assets/curso/temas/tema2/3.png', alt='Imagen de apoyo')
@@ -87,7 +87,7 @@
               p.text-white.mb-0 TERNARIAS Plata/cobre/zinc.  
             li.d-flex 
               i.fas.fa-check-circle.bgr
-              p.text-white.mb-0 CUATERNARIAS Plata/cobre/zinc/cadmio Plata/cobre/zinc/estaño Los intervalos de fusión suelen estar comprendidos entre los 600 y los 850°C.
+              p.text-white.mb-0 CUATERNARIAS Plata/cobre/zinc/cadmio Plata/cobre/zinc/estaño, Los intervalos de fusión suelen estar comprendidos entre los 600 y los 850°C.
         .col-md-8.col-lg-3.align-content-center
           figure
             img(src='@/assets/curso/temas/tema2/6.png', alt='Imagen de apoyo')
@@ -377,17 +377,17 @@
                   td 
                   td 50
                   td
-      .row(titulo="Soldaduras Oro Blanco").justify-content-center
+      .row(titulo="Soldaduras oro blanco").justify-content-center
         .col-md-4.col-xl-4
           figure
             img(src='@/assets/curso/temas/tema2/9.png', alt='Imagen de apoyo')
         .col-xl-8.mb-4.mb-md-0.align-content-center
-          h4 Soldaduras Oro Blanco
+          h4 Soldaduras oro blanco
           p Al trabajar con oro blanco, suelen utilizarse dos soldaduras, una fuerte y otra más tierna. Cuando se habla de oro blanco no se puede generalizar ya que existen una gran variedad de aleaciones del mismo muy diferentes entre sí. 
           p En realidad, las soldaduras especiales para oro blanco han perdido bastante interés. Actualmente, casi todas las piezas fabricadas en oro blanco acaban terminadas con un baño de rodio que unifica totalmente el color. El baño de rodio es muy difícil que, a través de los años desaparezca de piezas que no tengan un roce excesivo.
           p La aleación para oro blanco tiene que ser de la misma que se ha utilizado para preparar el oro blanco que se pretende dar.
 
-          p.text-bold Aleación de más de 750 Milésimas (+ de 18k) 
+          p.text-bold Aleación de más de 750 milésimas (+ de 18 qt) 
           .tabla-a.color-acento-botones.bgr_6.mb-5.text-center
             table
               thead
@@ -405,7 +405,7 @@
                   td 104
                   td 90
           
-          p.text-bold Aleaciones de 750 milésimas (18 k) 
+          p.text-bold Aleaciones de 750 milésimas (18 qt) 
           .tabla-a.color-acento-botones.bgr_6.mb-5.text-center
             table
               thead

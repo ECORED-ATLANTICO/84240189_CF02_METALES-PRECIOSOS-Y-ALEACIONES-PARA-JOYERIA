@@ -14,7 +14,7 @@
             img(src='@/assets/curso/temas/tema5/1.svg', alt='Imagen de apoyo')
         .col-lg-7.align-content-center
           p Los ensayos son fundamentales en todo proceso químico y en este caso como lo es la joyería, no es la excepción. La necesidad de reconocer cada metal (análisis cualitativo) y determinar la proporción en que se encuentra presente (análisis cuantitativo) nos permite determinar si la aleación con la que estamos trabajando es la correcta o no. 
-          p.mb-0 Los ensayos son aplicables al metal, a las aleaciones o en algunos casos a las soluciones como los baños de oro. Un error de parte química en los metales preciosos puede resultar muy costoso, un análisis mal hecho puede ser una pérdida significativa, por esto se hace necesario que este servicio lo desarrolle una persona o una empresa responsables.
+          p.mb-0 Los ensayos son aplicables al metal, a las aleaciones o en algunos casos, a las soluciones como los baños de oro. Un error de parte química en los metales preciosos puede resultar muy costoso, un análisis mal hecho puede ser una pérdida significativa, por esto, se hace necesario que este servicio lo desarrolle una persona o una empresa responsables.
     
     .row.mb-3.mt-5(data-aos="fade-right")
       .col-auto
@@ -65,7 +65,7 @@
 
     .row.mb-3.justify-content-center
       .col-xl-9.order-2.order-xl-1.mb-3
-        p La piedra de toque es, generalmente, un basalto negro procedente de Silesia, cortado en forma rectangular, con unas medidas aproximadas de 50x30x7 mm. de superficie mate y algo áspera. Es muy resistente a una amplia serie de ácidos. 
+        p La piedra de toque es, generalmente, un basalto negro procedente de Silesia, cortado en forma rectangular, con unas medidas aproximadas de 50 x 30 x 7 mm. de superficie mate y algo áspera. Es muy resistente a una amplia serie de ácidos. 
         p.text-bold Su empleo es muy sencillo: 
         p Uno de los bordes de la pieza o trozo de metal que se quiere comprobar, se frota contra la piedra de forma que queden trazas del metal marcadas en la superficie de la misma. A continuación, se frota también otro metal cualitativa y cuantitativamente conocido. Dejando las trazas del mismo junto a las del primero, separadas ambas por el espacio justo y necesario para que no se confundan unas con otras. Seguidamente se aplican unas gotas del reactivo de forma que cubran, al mismo tiempo, parte de las trazas de los dos metales, del que se quiere probar y del de referencia.
       .col-md-6.col-xl-3.order-1.order-xl-2.mb-3(data-aos="fade-left")
@@ -78,7 +78,7 @@
           img(src='@/assets/curso/temas/tema5/5.png', alt='Imagen de apoyo')
       .col-xl-8
         p Si las dos aleaciones son iguales, las reacciones en las dos trazas también serán iguales. Si las reacciones son diferentes es que, evidentemente, se trata de aleaciones distintas. 
-        p Junto con la piedra de toque, se suelen suministrar una serie de testigos que consisten en tiras de latón, en las cuales en sus puntas se encuentra soldado un pedacito de oro de un título conocido y que viene convenientemente marcado. Sus puntas son de 22, 20, 18, 14 y 10 quilates, siendo estas las más comunes. Para cada una de estas puntas existe un reactivo. Estos reactivos atacan, por ejemplo, el de 18 quilates no ataca el de 20 o 22 pero si a todos los que están por debajo. 
+        p Junto con la piedra de toque, se suelen suministrar una serie de testigos que consisten en tiras de latón, en las cuales en sus puntas se encuentra soldado un pedacito de oro de un título conocido y que viene convenientemente marcado. Sus puntas son de 22, 20, 18, 14 y 10 quilates, siendo estas las más comunes. Para cada una de estas puntas existe un reactivo. Estos reactivos atacan, por ejemplo, el de 18 quilates no ataca el de 20 o 22 pero sí a todos los que están por debajo. 
     
     .row.mb-5.justify-content-center
       .col-xl-8
@@ -94,7 +94,7 @@
                 th 3 o 4 partes
             tbody.bgr_5
               tr
-                td Acido nítrico
+                td Ácido nítrico
                 td 1 parte
         
         p.text-bold Existen una cantidad de fórmulas para trabajar como reactivo de la piedra de toque, a continuación, están algunas: 
@@ -106,11 +106,11 @@
           table
             thead
               tr.bgr_4
-                th Ácido nítrico de 40 beaumes
+                th Ácido nítrico de 40 Béaumès
                 th 80 partes
             tbody.bgr_5
               tr
-                td Ácido clorhídrico de 21 beaumes
+                td Ácido clorhídrico de 21 Béaumès
                 td 10 partes
               tr
                 td Agua destilada
@@ -134,10 +134,10 @@
                 td Agua destilada
                 td 10 partes
               tr
-                td Ácido nítrico de 37 beaumes
+                td Ácido nítrico de 37 Béaumès
                 td 98 gramos
               tr
-                td Ácido clorhídrico de 21 beaumes
+                td Ácido clorhídrico de 21 Béaumès
                 td 2 gramos
               tr
                 td Agua destilada
@@ -157,11 +157,11 @@
           table
             thead
               tr.bgr_4
-                th Ácido nítrico 40 beaumes
+                th Ácido nítrico 40 Béaumès
                 th 800 partes
             tbody.bgr_5
               tr
-                td Ácido clorhídrico de 21 beaumes
+                td Ácido clorhídrico de 21 Béaumès
                 td 10 parte
               tr
                 td Agua destilada
@@ -184,15 +184,15 @@
           li.d-flex
             .lista-ol--cuadro__vineta.bgr_6.d-
               span 1
-            p.mb-0 #[strong Titulo alto:] da color marfil y el metal no reacciona. 
+            p.mb-0 #[strong Título alto:] da color marfil y el metal no reacciona. 
           li.d-flex
             .lista-ol--cuadro__vineta.bgr_6.d-
               span 2
-            p.mb-0 #[strong Titulo bajo:]  da color gris, hierve y deja mancha en el metal.
+            p.mb-0 #[strong Título bajo:]  da color gris, hierve y deja mancha en el metal.
         
-        p.text-bold Entre otros ensayos que nos pueden orientar 9 están:
-        p.p-4.bgr_4 Ácido Clorhídrico: Ninguna Reacción con oro, plata, paladio o platino. Reacción violenta sobre aluminio y zinc. 
-        p Ácido Nítrico: Reacción violenta sobre cobre y níquel con coloración verde o azul, con el cadmio, el zinc y la plata el ácido permanece blanco. El paladio se disuelve, encuartado y color rojo.
+        p.text-bold Entre otros ensayos que nos pueden orientar, están:
+        p.p-4.bgr_4 Ácido clorhídrico: ninguna Reacción con oro, plata, paladio o platino. Reacción violenta sobre aluminio y zinc. 
+        p Ácido nítrico: reacción violenta sobre cobre y níquel con coloración verde o azul, con el cadmio, el zinc y la plata el ácido permanece blanco. El paladio se disuelve, encuartado y color rojo.
     
     .row.mb-5.justify-content-center
       .col-lg-7.col-xl-8.mb-3
@@ -224,7 +224,7 @@
           li.d-flex
             .lista-ol--cuadro__vineta.bgr_6.d-
               span 7
-            | Agua Regia: disuelve casi todos los metales. 
+            | Agua regia: disuelve casi todos los metales. 
           li.d-flex
             .lista-ol--cuadro__vineta.bgr_6.d-
               span 8
@@ -272,18 +272,18 @@
         p Primer procedimiento, se ataca con ácido nítrico y, posteriormente se añade ácido clorhídrico o una solución saturada de sal de cocina. Si es plata se precipita cloruro de plata, de color blanco.
         p Segundo procedimiento, se preparará la siguiente solución.
         div.p-4.bgr_4.text-center.mb-3
-          p.mb-0 Dicromato potásico.........10 gr 
+          p.mb-0 Dicromato potásico.........10 g 
           p.mb-0 Agua destilada...............700ml 
-          p.mb-0 Ácido Sulfúrico..............200 ml
+          p.mb-0 Ácido sulfúrico..............200 ml
         p Esa solución corroe la plata manchándola en rojo. 
         p Para apreciar mejor el color séquese, sin frotar, con la ayuda de papel secante. Tercer procedimiento, se prepara la siguiente solución.
         div.p-4.bgr_4.text-center.mb-3
-          p.mb-0 Sulfato de Plata.................10 gr 
+          p.mb-0 Sulfato de plata.................10 g
           p.mb-0 Agua destilada..............1000 ml
         p.text-bold Una gota de esa solución sobre la muestra: 
         p.mb-0 No modifica la plata fina.
-        p.mb-0 Mancha negro los metales no nobles. 
-        p.mb-0 Mancha más o menos gris las aleaciones de plata, cuanto más bajo es el título más oscuro es la mancha.
+        p.mb-0 Mancha negra los metales no nobles. 
+        p.mb-0 Mancha más o menos gris las aleaciones de plata, cuanto más bajo es el título más oscura es la mancha.
 
     .row.mb-5.justify-content-center
       .col-xl-9 
@@ -293,14 +293,14 @@
               img(src="@/assets/template/fri.svg", alt="alt")
           .col.p-0
             h4 Análisis cuantitativos
-        p Este análisis nos indica en que cantidades de un determinado componente se encuentra presente en la formula o en la muestra.
+        p Este análisis nos indica en qué cantidades de un determinado componente se encuentra presente en la fórmula o en la muestra.
         .row.mb-3(data-aos="fade-right")
           .col-auto
             figure
               img(src="@/assets/template/fri.svg", alt="alt")
           .col.p-0
             h4 Ensayo de oro, de sus aleaciones por copelación.
-        p Este método se basa en la fusión de la muestra con un fundente a alta temperatura, el fundente está constituido básicamente por los siguientes reactivos: oxido de plomo, carbonato de sodio, bórax, las principales características son las de disminuir el punto de fusión de los metales y oxidar las impurezas para formar la escoria. Además de nitrato de potasio, harina y nitrato de plata, etc. Los metales nobles son colectados por el plomo del litargirio, formando el régulo el cual permanece en la parte inferior de la escoria debido a su alto peso específico. Este régulo luego de ser separado de la escoria es copelado a alta temperatura, en copelas de ceniza de hueso; las cuales absorben el plomo liberando así el oro y la plata el botón de oro y plata es comúnmente llamado doré. Este doré es laminado y disgregado con una solución de Ácido Nítrico para disolver la plata, el oro queda como una charpita en el fondo del crisol, el cual es pesado en una microbalanza. 
+        p Este método se basa en la fusión de la muestra con un fundente a alta temperatura, el fundente está constituido básicamente por los siguientes reactivos: óxido de plomo, carbonato de sodio, bórax, las principales características son las de disminuir el punto de fusión de los metales y oxidar las impurezas para formar la escoria. Además de nitrato de potasio, harina y nitrato de plata, etc. Los metales nobles son colectados por el plomo del litargirio, formando el régulo el cual permanece en la parte inferior de la escoria debido a su alto peso específico. Este régulo, luego de ser separado de la escoria es copelado a alta temperatura, en copelas de ceniza de hueso; las cuales absorben el plomo liberando así el oro y la plata. El botón de oro y plata es comúnmente llamado <em>doré</em>. Este doré es laminado y disgregado con una solución de ácido nítrico para disolver la plata, el oro queda como una charpita en el fondo del crisol, el cual es pesado en una microbalanza. 
 
       .col-md-6.col-lg-4.col-xl-3
         figure
@@ -325,7 +325,7 @@
             | Se toma 1 gr de oro de la muestra para analizar y se pesa.
           li.mb-0.d-flex 
             i.lista-ul__vineta
-            | Se toma un crisol, lo más pequeña posible y se funde en ella unos tres gramos de plata fina.  
+            | Se toma un crisol, lo más pequeño posible y se funden en ella unos tres gramos de plata fina.  
           li.mb-0.d-flex 
             i.lista-ul__vineta
             | Cuando la plata está fundida, se mantiene la temperatura con fuego indirecto, para que continúe la plata fundida pero que no pueda salpicar.  
@@ -337,13 +337,13 @@
             | Se mantiene a temperatura el tiempo indispensable para que el oro y la plata se mezclen. 
           li.mb-0.d-flex 
             i.lista-ul__vineta
-            | Se deja enfrían y se comprueba que todos ha quedado en un solo lingote y que no han quedado bolitas de oro esparcidas por el crisol. 
+            | Se deja enfríar y se comprueba que todo ha quedado en un solo lingote y que no han quedado bolitas de oro esparcidas por el crisol. 
           li.mb-0.d-flex 
             i.lista-ul__vineta
             | Se saca el lingote de la cuchara y se limpia de cualquier resto de la misma que pueda tener pegado.  
           li.mb-0.d-flex 
             i.lista-ul__vineta
-            | Se toma un vaso de precipitado, pirex de 100 ml, y séllenla hasta la mitad con una solución de ácido nítrico, químicamente puro, al 30%.  
+            | Se toma un vaso de precipitado de 100 ml, y séllenla hasta la mitad con una solución de ácido nítrico, químicamente puro, al 30%.  
           li.mb-0.d-flex 
             i.lista-ul__vineta
             | Se calienta la solución de nítrico en el baño de arena y cuando la temperatura alcanza los 30 o 40°C, se introduce el lingote procedente de la fundición. 
@@ -361,13 +361,13 @@
             | Se puede dejar secar el vaso de precipitado cerca de cualquier fuente de calor que no sobre pase los 50°C.  
           li.mb-0.d-flex 
             i.lista-ul__vineta
-            | Una vez completamente seca se toma el crisol con la esponja de oro y se calcina utilizando directamente la llama de un soplete o similar.  
+            | Una vez completamente seco se toma el crisol con la esponja de oro y se calcina utilizando directamente la llama de un soplete o similar.  
           li.mb-0.d-flex 
             i.lista-ul__vineta
             | Se deja enfriar y se pesa en una gramera. 
           li.mb-0.d-flex 
             i.lista-ul__vineta
-            | Se divide el peso final por el peso inicial. El cociente obteniendo multiplicado por 1000 indicará el título en milésimas.  
+            | Se divide el peso final por el peso inicial. El cociente obtenido multiplicado por 1000 indicará el título en milésimas.  
 
     .row.mb-3(data-aos="fade-right")
       .col-auto
@@ -375,7 +375,7 @@
           img(src="@/assets/template/fri.svg", alt="alt")
       .col.p-0
         h4 Ensayo del oro aluvionar por gravimetría y copelación
-    p.mb-5 El oro aluvionar es el que familiarmente se llama “pepitas de oro” generalmente, se encuentra aleado con otros metales, especialmente con plata. A fin de tener un conjunto homogéneo, se funden todas las pepitas de oro en un solo lingote. Para estos tipos de procedimientos siempre se deben tomar toda clase de precauciones para evitar la contaminación del material a analizar.
+    p.mb-5 El oro aluvionar es el que familiarmente se llama pepitas de oro generalmente, se encuentra aleado con otros metales, especialmente con plata. A fin de tener un conjunto homogéneo, se funden todas las pepitas de oro en un solo lingote. Para estos tipos de procedimientos siempre se deben tomar toda clase de precauciones para evitar la contaminación del material a analizar.
 
     .row.mb-3(data-aos="fade-right")
       .col-auto
@@ -389,7 +389,7 @@
         figure
           img(src='@/assets/curso/temas/tema5/12.png', alt='Imagen de apoyo')
       .col-lg-7(data-aos="fade-left")
-        p Hay pocos metales que sean más densos que el oro. La densidad del oro puro de 24 quilates es aproximadamente de 19,3 g/ml, lo que es mucho más que la mayoría de los metales. Medir la densidad de la pieza puede ayudarte a saber si es oro o no lo es. Como regla general, cuanto más densa sea la pieza, más puro es el oro. Esta prueba no debe realizarse con anillos u otros objetos que tengan joyas engarzadas. Lee la sección “Advertencias” para encontrar información importante respecto a la prueba de densidad.
+        p Hay pocos metales que sean más densos que el oro. La densidad del oro puro de 24 quilates es aproximadamente de 19,3 g/ml, lo que es mucho más que la mayoría de los metales. Medir la densidad de la pieza puede ayudarte a saber si es oro o no lo es. Como regla general, cuanto más densa sea la pieza, más puro es el oro. Esta prueba no debe realizarse con anillos u otros objetos que tengan joyas engarzadas. Lee la sección “Advertencia en la prueba de densidad” para encontrar información importante respecto a la prueba de densidad.
 
     .row.mb-5.justify-content-center
       .col-lg-8
@@ -404,7 +404,7 @@
             p Usa la siguiente fórmula para calcular la densidad.
             p.mb-5 Densidad = masa / volumen de agua desplazado. Un resultado cercano a 19 gramos/ml indica que la pieza es de oro real, o de un material con una densidad muy similar a la del oro. Aquí tienes unos ejemplos prácticos.
             figure.justify-content-center.d-flex.mb-3
-              img.w-50.pst(src='@/assets/curso/temas/tema5/14.svg', alt='Imagen de apoyo')
+              img.w-50.pst(src='@/assets/curso/temas/tema5/14.svg', alt='Formula: densidad es igual a peso en gramos pieza, dividido peso en gramos piezas-pesos pieza en agua.')
             p La pieza pesa 38 gr y desplaza 2 mililitros de agua en la probeta. Usando la fórmula de masa (38 gr) / Volumen desplazado (2 ml), el resultado es 19 gr/ ml, lo cual está muy cerca de la densidad del oro. Ten en cuenta que las diferentes calidades de oro tienen diferente densidad en gr/ml: 
             .row.justify-content-center
               .col-auto
@@ -438,10 +438,10 @@
     p.mt-4.mb-5 La siguiente formula resulta muy útil cuando se quiere convertir una ley baja en otra alta, añadiendo oro fino. Se debe tener presente que 1000 milésimas corresponden a la ley del oro fino y que, en este caso, la ley deseada es siempre la ley más alta.
 
     figure.d-flex.justify-content-center.mb-5
-      img.pst.w-50(src='@/assets/curso/temas/tema5/15.svg', alt='Cantidad oro a añadir es igual a ley alta-ley baja x eso en gr, dividido 1000-ley alta')
+      img.pst.w-50(src='@/assets/curso/temas/tema5/15.svg', alt='Se muestra la fórmula  de cantidad de oro a añadir es igual a ley alta menos ley por peso en gramos sobre mil menos ley alta.')
 
     p Queremos aumentar un lingote de 20 gr de 500 milésimas (ley baja) a 750 milésimas (ley alta). Se tendrá que añadir 20 gr de oro fino. 
-    p.mb-5 Así pues, al añadir 20 gr de oro fino a los 20 gr de 500 milésimas que ya se tenían en un principio, se obtiene un lingote de 40 gr de aleación de 18 kilates (750 milésimas). 
+    p.mb-5 Así pues, al añadir 20 gr de oro fino a los 20 gr de 500 milésimas que ya se tenían en un principio, se obtiene un lingote de 40 gr de aleación de 18 quilates (750 milésimas). 
 
     .row.mb-3(data-aos="fade-right")
       .col-auto
@@ -452,7 +452,7 @@
     
     p La fórmula permite rebajar una ley alta añadiendo liga al metal. En este caso, la ley baja es la ley deseada.
     
-    p Por ejemplo, si es necesario pasar de 25 gr de oro de 22 kilates a 18 kilates, se aplica formula.
+    p Por ejemplo, si es necesario pasar de 25 gr de oro de 22 quilates a 18 quilates, se aplica fórmula.
 
 
 
