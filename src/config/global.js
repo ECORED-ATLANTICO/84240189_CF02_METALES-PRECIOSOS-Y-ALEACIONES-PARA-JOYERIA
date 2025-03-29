@@ -257,7 +257,7 @@ export default {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de la línea de producción',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
@@ -273,38 +273,38 @@ export default {
         {
           nombre: 'Pedro Nel Cabrera Vanegas',
           cargo: 'Diseñador gráfico',
-          centro: 'Centro Comercio y Servicio - Regional Tolima.',
+          centro: 'Centro Comercio y Servicio - Regional Tolima',
         },
         {
           nombre: 'Diana Katherine Osorio Useche',
           cargo: 'Diseñadora gráfica',
-          centro: 'Centro Comercio y Servicio - Regional Tolima.',
+          centro: 'Centro Comercio y Servicio - Regional Tolima',
         },
         {
-          nombre: 'Ricardo palacio Peña',
+          nombre: 'Ricardo Palacio Peña',
           cargo: 'Asesor pedagógico',
-          centro: 'Centro Comercio y Servicio - Regional Tolima.',
+          centro: 'Centro Comercio y Servicio - Regional Tolima',
         },
         {
           nombre: 'Genny Carolina Mora Rojas',
           cargo: 'Guionista del equipo',
-          centro: 'Centro Comercio y Servicio - Regional Tolima.',
+          centro: 'Centro Comercio y Servicio - Regional Tolima',
         },
         {
           nombre: 'Jesús Bernardo Novoa Ortiz',
           cargo: 'Guionista del equipo',
-          centro: 'Centro Comercio y Servicio - Regional Tolima.',
+          centro: 'Centro Comercio y Servicio - Regional Tolima',
         },
         {
           nombre: 'Claudia Rocio Varón Buitrago',
           cargo: 'Líder del Equipo ',
-          centro: 'Centro Comercio y Servicio - Regional Tolima.',
+          centro: 'Centro Comercio y Servicio - Regional Tolima',
         },
         {
           nombre: 'Fabian Cuartas Donado',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
@@ -315,19 +315,19 @@ export default {
           nombre: 'Hernando Junior Strusberg Perez',
           cargo: 'Diseñador <em>web</em>',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Carlos Andrés Díaz Pinto',
-          cargo: 'Desarrollador <em>Fullstack</em>',
+          cargo: 'Desarrollador <em>Full stack</em>',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y Producción audiovisual',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
@@ -338,25 +338,25 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador de contenidos inclusivos y accesibles ',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles ',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Juan Carlos Cardona Acosta',
           cargo: 'Validador y vinculador de recursos digitales',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador y vinculador de recursos digitales',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },

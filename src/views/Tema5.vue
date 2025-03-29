@@ -191,7 +191,7 @@
             p.mb-0 #[strong Título bajo:]  da color gris, hierve y deja mancha en el metal.
         
         p.text-bold Entre otros ensayos que nos pueden orientar, están:
-        p.p-4.bgr_4 Ácido clorhídrico: ninguna Reacción con oro, plata, paladio o platino. Reacción violenta sobre aluminio y zinc. 
+        p.p-4.bgr_4 Ácido clorhídrico: ninguna reacción con oro, plata, paladio o platino. Reacción violenta sobre aluminio y zinc. 
         p Ácido nítrico: reacción violenta sobre cobre y níquel con coloración verde o azul, con el cadmio, el zinc y la plata el ácido permanece blanco. El paladio se disuelve, encuartado y color rojo.
     
     .row.mb-5.justify-content-center
@@ -204,7 +204,7 @@
           li.d-flex
             .lista-ol--cuadro__vineta.bgr_6.d-
               span 2
-            | Ácido Sulfúrico: en caliente ataca la plata y el estaño. 
+            | Ácido sulfúrico: en caliente ataca la plata y el estaño. 
           li.d-flex
             .lista-ol--cuadro__vineta.bgr_6.d-
               span 3
@@ -280,7 +280,7 @@
         div.p-4.bgr_4.text-center.mb-3
           p.mb-0 Sulfato de plata.................10 g
           p.mb-0 Agua destilada..............1000 ml
-        p.text-bold Una gota de esa solución sobre la muestra: 
+        p.text-bold Una gota de esa solución sobre la muestra
         p.mb-0 No modifica la plata fina.
         p.mb-0 Mancha negra los metales no nobles. 
         p.mb-0 Mancha más o menos gris las aleaciones de plata, cuanto más bajo es el título más oscura es la mancha.
@@ -343,13 +343,13 @@
             | Se saca el lingote de la cuchara y se limpia de cualquier resto de la misma que pueda tener pegado.  
           li.mb-0.d-flex 
             i.lista-ul__vineta
-            | Se toma un vaso de precipitado de 100 ml, y séllenla hasta la mitad con una solución de ácido nítrico, químicamente puro, al 30%.  
+            | Se toma un vaso de precipitado de 100 ml, y séllenla hasta la mitad con una solución de ácido nítrico, químicamente puro, al 30 %.  
           li.mb-0.d-flex 
             i.lista-ul__vineta
             | Se calienta la solución de nítrico en el baño de arena y cuando la temperatura alcanza los 30 o 40°C, se introduce el lingote procedente de la fundición. 
           li.mb-0.d-flex 
             i.lista-ul__vineta
-            | Cuando cese el ataque del ácido, se quitará este acido decantado y se llenará nuevamente 11 el vaso de precipitado hasta la mitad, con solución de ácido nítrico, químicamente puro, esta vez al 50%. 
+            | Cuando cese el ataque del ácido, se quitará este acido decantado y se llenará nuevamente 11 el vaso de precipitado hasta la mitad, con solución de ácido nítrico, químicamente puro, esta vez al 50 %. 
           li.mb-0.d-flex 
             i.lista-ul__vineta
             | Se continúa calentando el vaso de precipitado en el baño de arena hasta que no se produzcan más vapores nitrosos de color rojizo. 
@@ -382,7 +382,7 @@
         figure
           img(src="@/assets/template/fri.svg", alt="alt")
       .col.p-0
-        h4 La prueba de densidad:
+        h4 La prueba de densidad
     
     .row.mb-5.justify-content-center
       .col-md-6.col-lg-3.mb-3.align-content-center

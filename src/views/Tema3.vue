@@ -178,7 +178,7 @@
         figure
           img(src="@/assets/template/fri.svg", alt="alt")
       .col.p-0
-        h4 Hornos de inducción: 
+        h4 Hornos de inducción
     
     .bg_img_3
       .row.justify-content-center

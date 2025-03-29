@@ -42,7 +42,7 @@
     
     p.mb-5 Todos los metales utilizados por el joyero, al recocerlos o soldarlos, si no se han tomado precauciones previas, se oxidan y cambian de color, además para eliminar los óxidos de estos metales y también los restos de fundentes, se utilizan una serie de soluciones químicas, llamadas de decapado (de blanqueamiento o de desoxidación). 
     
-    h3.mb-5 Clases, técnicas y aplicaciones del decapado:
+    h3.mb-5 Clases, técnicas y aplicaciones del decapado
 
     .row.mb-5.justify-content-center
       .col-md-6.col-xl-4.align-content-center.mb-3
@@ -53,7 +53,7 @@
         ul.lista-ul--color
           li.d-flex 
             i.fas.fa-check-circle.bgr
-            p.text-bold.mb-0 En la mayoría de los casos: 
+            p.text-bold.mb-0 En la mayoría de los casos
         .tabla-a.color-acento-botones.mb-5.text-center
           table
             thead

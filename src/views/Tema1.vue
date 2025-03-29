@@ -66,10 +66,10 @@
         .col-lg-12.col-xl-7.mb-4.mb-md-0.align-content-center.text-white.text-center
           h3 Propiedades físicas 
           p.mb-0 El color varía según la proporción cobre / zinc 
-          p.mb-0 50 al 66% de cobre....................amarillo fuerte 
-          p.mb-0 66 al 75% de cobre................amarillos pálidos 
-          p.mb-0 75 al 86% de cobre.....................amarillo rojizo 
-          p.mb-0 86 al 98% de cobre...................rojo amarillento
+          p.mb-0 50 al 66 % de cobre....................amarillo fuerte 
+          p.mb-0 66 al 75 % de cobre................amarillos pálidos 
+          p.mb-0 75 al 86 % de cobre.....................amarillo rojizo 
+          p.mb-0 86 al 98 % de cobre...................rojo amarillento
         .col-md-8.col-lg-6.col-xl-3
           figure
             img(src='@/assets/curso/temas/tema1/9.png', alt='Imagen de apoyo')
@@ -109,7 +109,7 @@
         .col-lg-12.col-xl-7.mb-4.mb-md-0.align-content-center
           h3.text-white En bisutería también se utilizan los latones como
           p.mb-0.text-white.text-bold Tombak o tumbaga 
-          p.text-white La tumbaga es un latón compuesto solo por cobre y zinc, cuyo contenido oscila entre el 80 y el 90%. 
+          p.text-white La tumbaga es un latón compuesto solo por cobre y zinc, cuyo contenido oscila entre el 80 y el 90 %. 
           p.mb-0.text-white.text-bold Similor 
           p.text-white El similor no tiene una composición fija determinada. Existen investigaciones para encontrar una aleación con un color más o menos parecido al oro. Algunos son: 
  
@@ -176,7 +176,7 @@
       .row(numero="2" titulo="Composición").justify-content-center
         .col-lg-8.mb-4.mb-lg-0
           p Níquel: ................ del 12 al 22 % 
-          p Cobre: ................. del 60 al 65% 
+          p Cobre: ................. del 60 al 65 % 
           p Zinc: ................... del 18 al 23 %
      
         .col-md-6.col-lg-4
