@@ -271,33 +271,8 @@ export default {
             'Centro de gestión administrativa y fortalecimiento empresarial - Regional Boyacá.',
         },
         {
-          nombre: 'Pedro Nel Cabrera Vanegas',
-          cargo: 'Diseñador gráfico',
-          centro: 'Centro Comercio y Servicio - Regional Tolima',
-        },
-        {
-          nombre: 'Diana Katherine Osorio Useche',
-          cargo: 'Diseñadora gráfica',
-          centro: 'Centro Comercio y Servicio - Regional Tolima',
-        },
-        {
           nombre: 'Ricardo Palacio Peña',
           cargo: 'Asesor pedagógico',
-          centro: 'Centro Comercio y Servicio - Regional Tolima',
-        },
-        {
-          nombre: 'Genny Carolina Mora Rojas',
-          cargo: 'Guionista del equipo',
-          centro: 'Centro Comercio y Servicio - Regional Tolima',
-        },
-        {
-          nombre: 'Jesús Bernardo Novoa Ortiz',
-          cargo: 'Guionista del equipo',
-          centro: 'Centro Comercio y Servicio - Regional Tolima',
-        },
-        {
-          nombre: 'Claudia Rocio Varón Buitrago',
-          cargo: 'Líder del Equipo ',
           centro: 'Centro Comercio y Servicio - Regional Tolima',
         },
         {
@@ -335,10 +310,9 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles ',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
+          nombre: 'María Fernanda Morales Ángulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro Comercio y Servicios -Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
